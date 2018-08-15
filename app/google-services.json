@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "372966490932",
+    "firebase_url": "https://truyencoanhviet.firebaseio.com",
+    "project_id": "truyencoanhviet",
+    "storage_bucket": "truyencoanhviet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372966490932:android:db7bad07c198323f",
+        "android_client_info": {
+          "package_name": "com.truyensongngu.hoctienganhfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372966490932-us5v4sb5kmtsnin0bc6dh3snrur6p6a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.truyensongngu.hoctienganhfree",
+            "certificate_hash": "0737bf218cefe885bf1fcb625c4c19d1a2853625"
+          }
+        },
+        {
+          "client_id": "372966490932-eh8parso90j3jh8h8dvoka64cubu9rhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTW4uDZIflU2wYl3gWcPnx0y8JDYujXz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372966490932-eh8parso90j3jh8h8dvoka64cubu9rhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
